@@ -1,0 +1,21 @@
+[
+  {
+    "FirstName": "Tomo",
+    "LastName": "Kozoloski",
+    "Age": 31,
+    "Username": "tomoko",
+    "Password": "tomoko123",
+    "Activities": [
+      {
+        "Name": "Reading",
+        "TimeSpent": 0,
+        "ExtraInfo": "Fiction"
+      },
+      {
+        "Name": "Working",
+        "TimeSpent": 1,
+        "ExtraInfo": "Home"
+      }
+    ]
+  }
+]

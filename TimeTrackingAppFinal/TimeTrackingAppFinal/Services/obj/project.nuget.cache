@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MN4cs/Rii+V1SdBEmoiSweCGeQPbutXgpxGVKLwzHAio33LKhpOs3/j5G965wb0Fzkz3iwFvQvUf6rvhkt6vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomo\\Desktop\\TimeTrackingAppFinal\\TimeTrackingAppFinal\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
